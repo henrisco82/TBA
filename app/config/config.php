@@ -5,10 +5,10 @@
  define('APPROOT', dirname(dirname(__FILE__)));
 
  // URL Root
- define ('URLROOT', 'http://localhost/mvcapp' );
+ define ('URLROOT', 'http://localhost/project' );
 
  // Site Name 
- define ('SITENAME', 'Pending');
+ define ('SITENAME', 'TBA21 Project');
 
  /**
  * Configuration for: Database
@@ -16,6 +16,6 @@
  */
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'tmvc');
+define('DB_NAME', 'minta');
 define('DB_USER', 'root');
 define('DB_PASS', 'jaydenjames');

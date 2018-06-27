@@ -6,7 +6,7 @@
     # Activates URL rewriting
     RewriteEngine On
 
-    RewriteBase /mvcapp/public
+    RewriteBase /project/public
     # If the following conditions are true, then rewrite the URL:
     # If the requested filename is not a directory,
     RewriteCond %{REQUEST_FILENAME} !-d
